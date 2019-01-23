@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
-#region Auther
+#region Author
 
 // Name   : System Awaker
 // Auther : Prabhas Harlapur
